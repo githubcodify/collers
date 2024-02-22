@@ -1,0 +1,20 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .section-4 .deco-video {
+        position: absolute;
+        z-index: -1;
+        width: 130%;
+        height: auto;
+    }
+
+    .section-4 .rectangle-28 {
+        width: 59px;
+        height: 60px;
+        border-radius: 50px;
+        opacity: 0.75;
+        background: var(--Green-700, #15803D);
+        position: absolute;
+        z-index: 1;
+        left: 20%;
+        bottom: -30px;
+    }
+}
